@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodePath_Android_Wordle_Project1</string>
+    <string name="guess_1">____</string>
+    <string name="guess_2">____</string>
+    <string name="guess_3">____</string>
+    <string name="guess_4">____</string>
+
+    <string name="guess_1c">____</string>
+    <string name="guess_2c">____</string>
+    <string name="guess_3c">____</string>
+    <string name="guess_4c">____</string>
+
+    <string name="targetWord">cats</string>
+
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="textSize">30sp</dimen>
+    <dimen name="marginTop">30dp</dimen>
+    <dimen name="marginStartEnd">16dp</dimen>
+</resources>
