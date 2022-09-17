@@ -2,9 +2,9 @@
 
 Submitted by: **Pranav Banuru**
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -52,6 +52,11 @@ I googled to find a solution, and tried different suggestions, understanding the
 I also wanted to automate the generation of the top 6 TextViews, as each of them is very similar.
 It appears I will need to learn about "populating" a Vertical Linear Layout. I will learn this in the future, 
 but for now, I decided to focus my efforts elsewhere.
+
+Additionally, I had trouble storing shared dimensions globally, like in the top 6 TextViews; where I for example, 
+want all TextViews to be of the same text size. I tried storing the dp values in my strings.xml file, representing the
+dimensions as strings. Through trial, error, and the internet, I figured out I must represent the dimensions as "dimen,"
+and created a dimens.xml file.
 
 
 
