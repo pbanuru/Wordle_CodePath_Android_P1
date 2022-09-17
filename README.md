@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 - [x] Keyboard will hide once no more guesses can/need be made.
 - [x] Keyboard will not obscure the Guess Submission Box and the Guess Submission Button.
+- [x] User cannot type more than 4 letters in keyboard.
 
 ## Video Walkthrough
 
